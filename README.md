@@ -6,10 +6,10 @@ A simple app to keep track of destinations I'd like to visit.
 # :bike:  Explore US Bikeshare Data  :bike:
 
 ### Date created
-03/30/2019
+03/30/2019 is this accurate
 
 ### Project Title
-Bikeshare Usage/Metrics
+Bikeshare Usage/Metrics by city
 
 ### Description
 This project provides Bikeshare Analysis for a specific city
