@@ -34,6 +34,7 @@ by
 
 
 
+![We Love Bikeshare](/images/chicagoBikeshare.png)
 
 http://up-for-grabs.net/
 http://www.firsttimersonly.com/
