@@ -33,6 +33,11 @@ by
 	* YouTube Videos: https://www.youtube.com/watch?v=2AFGPdNn4FM
 
 
+### Updates To Be Added
+- [] Cleanup debug messages for consistency 
+- [] Add ability to analysis other cities: currently chicago, washington dc, and new york
+- [ ] this is an incomplete item
+
 
 ![We Love Bikeshare](/images/chicagoBikeshare.png)
 
