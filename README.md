@@ -13,6 +13,16 @@ Bikeshare Usage/Metrics
 
 ### Description
 This project provides Bikeshare Analysis for a specific city
+by 
+1. Requesting Input from the User to be used for the analysis
+	* Desired City 
+	* Desired Month
+	* Desired Day
+2. Evaluates the data to provide the following metrics about Bikeshare riders
+	* Most Common Month, Day, Hour of Bikeshare riders
+	* Most Popular Station
+	* Average Travel Time
+	* Bikeshare Rider Stats:  Gender, DOB, & User Type  
 
 ### Files used
 1. Data File:  chicago.csv
